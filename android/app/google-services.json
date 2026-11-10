@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806576957371",
+    "project_id": "sirius-fd116",
+    "storage_bucket": "sirius-fd116.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806576957371:android:d19eaeeb56a331048d069e",
+        "android_client_info": {
+          "package_name": "com.example.sirius"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806576957371-gb417hvbvpmjieavelh7shng9v24q7vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDezXePSzk025dm9W1Awuozlgp9MT5MlrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806576957371-gb417hvbvpmjieavelh7shng9v24q7vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
